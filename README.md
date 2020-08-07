@@ -1,2 +1,7 @@
 # PeluqueriaScheduler
-Web app scheduling system. Using TypeScript and ReactJS
+
+
+
+Web App that allow Users to schedule a session in a barber shop. Also shows the day schedule to the barber.
+
+
