@@ -61,3 +61,26 @@ const Dashboard: React.FC = () => {
     })
 
 }
+
+
+
+
+
+
+
+
+//Ideia de ultima hora e nois cachorro
+// Segue os passos
+// A ideia e fazer um software para aprender a tocar bateria a principio.
+// Com algum algoritmo doido ai para reconhecer a bateria fisica como algo 3d, e mostrar na tela onde tocar
+// A ideia a principio e basica, mas pode-se elaborar muitos designs interessantes para cada <coisa className="">
+
+
+
+</coisa>
+
+
+
+// outra ideia doida:
+// Matheus q sabe design: Chama-lo para fazer um game, quisaz em js mesmo?
+// A ideia de desenhar graficamente a paisagem e incrivel! keep  it going!
